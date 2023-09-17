@@ -3,5 +3,5 @@
 wraps https://github.com/yt-dlp/yt-dlp into a simple console gui which downloads youtube videos as m4a 
 
 plans:
-- gui
-- configure parameters
+- swap project to qt creator and make it cross platform
+- configurable parameters
